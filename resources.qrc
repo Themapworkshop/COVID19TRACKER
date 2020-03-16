@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Covid19_Tracker" >
+        <file>coronacon.png</file>
+    </qresource>
+</RCC>
