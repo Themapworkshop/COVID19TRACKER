@@ -26,7 +26,7 @@ This database uses data from:
 -Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 -Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
 
-This plugin was developed on QGIS3.10, and has yet not been tested on other versions of QGIS.  
+This plugin was developed and so far tested on QGIS3.10 and QGIS3.4.  
 The plugin requires the following python modules to be installed: 
 
 -pandas
